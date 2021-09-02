@@ -1,8 +1,9 @@
 # Datahack_GMSTeam
-## Track:  Cryptocurrency(Intermediate)
+## Competition: UCSD Datahack 2021
+## Track: Cryptocurrency(Intermediate)
 ## Team Member:
- Wenbo Hu
+ Wenbo Hu (Machine Learning)
  
- Huaning Liu
+ Huaning Liu (Overview, intro and hypothesis test)
  
- Wenqian Zhao
+ Wenqian Zhao (Summary and conclude)
