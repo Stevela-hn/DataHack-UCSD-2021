@@ -1,6 +1,6 @@
 # Datahack_GMSTeam
-Competition: UCSD Datahack 2021
-Track: Cryptocurrency(Intermediate)
+Competition: UCSD Datahack 2021 \
+Track: Cryptocurrency(Intermediate) \
 Team Member:
  Wenbo Hu (Machine Learning)
  
